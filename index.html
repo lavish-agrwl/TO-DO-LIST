@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TO-DO LIST</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="contentArea">
+        <div id="logo">
+            <img src="images/to-do-list.png">
+            <h1>TODO LIST</h1>
+        </div>
+        <div id="addTask">
+            <input type="text" id="taskName" placeholder="Enter task name" autocomplete="off">
+            <input type="button" id="submit" value="ADD" onclick="createTask()">
+        </div>
+        <div id="taskDescription">
+            <input type="text" id="description" placeholder="Enter task description. (Optional)">
+        </div>
+
+        <div class="sectionLogo">
+            <img src="images/todo.png">
+            <h2>TODO</h2>
+        </div>
+        <div id="toDo">
+        </div>
+        <div class="sectionLogo">
+            <img src="images/done.png">
+            <h2>COMPLETED</h2>
+        </div>
+        <div id="completed">
+
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
