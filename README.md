@@ -6,19 +6,20 @@ The app allows users to create, manage, and delete tasks directly in the browser
 
 ---
 
-### Preview
-<img src="./screenshots/preview.png">
-
----
-
 ### Table of Contents
+- [Preview](#preview)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Setup](#setup)
 - [Usage](#usage)
 - [Folder Structure](#folder-structure)
+
 ---
 
+### Preview
+<img src="./screenshots/preview.png">
+
+---
 ### Features
 
 - Add new tasks with ease.
