@@ -2,20 +2,24 @@
 I created this project to practice core concepts HTML, CSS and JavaScript
 A todo list is a good beginner level project to test your capablities in dynamic frontend webapp developement.
 The app allows users to create, manage, and delete tasks directly in the browser.
----
 
-<img src="./screenshots/preview.png">
 
 ---
 
 ### Table of Contents
+- [Preview](#preview)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Setup](#setup)
 - [Usage](#usage)
 - [Folder Structure](#folder-structure)
+
 ---
 
+### Preview
+<img src="./screenshots/preview.png">
+
+---
 ### Features
 
 - Add new tasks with ease.
