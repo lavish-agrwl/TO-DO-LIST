@@ -2,6 +2,9 @@
 I created this project to practice core concepts HTML, CSS and JavaScript
 A todo list is a good beginner level project to test your capablities in dynamic frontend webapp developement.
 The app allows users to create, manage, and delete tasks directly in the browser.
+---
+
+<img src="./screenshots/preview.png">
 
 ---
 
@@ -62,16 +65,16 @@ The app allows users to create, manage, and delete tasks directly in the browser
 ### Folder Structure
 
 ```plaintext
-to-do-list/
+todo-list-app/
 │
-├── styles.css           # CSS file for styling the app
+├── images                    # Folder for other static images
 │
-├── script.js               # JavaScript file for app functionality
+├── screenshots/              # Folder for app preview images
+│   └── preview.png           # Screenshot used in README
 │
-├── index.html               # Main HTML file
-│
-├── README.md                # Project documentation
-
+├── app.js                    # JavaScript file for app functionality
+├── styles.css                # CSS file for styling the app
+└── index.html                # Main HTML file
 ```
 
 ---
@@ -79,7 +82,7 @@ to-do-list/
 
 ### Author
 
-Created by **[Lavish Agarwal]**  
+Created by **[Lavish Agarwal]**
 Feel free to reach out at **[agrwl.lavish@gmail.com]** or connect with me on **[@lavish_agrwl]**.
 
 ---
