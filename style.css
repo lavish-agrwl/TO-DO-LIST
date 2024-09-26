@@ -13,7 +13,7 @@ body {
 .contentArea {
     height: 100%;
     width: 80%;
-    margin: auto;
+    margin: 25px auto;
     background: #fff;
     border-radius: 0.375rem;
 }
