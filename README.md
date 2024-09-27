@@ -43,13 +43,13 @@ The app allows users to create, manage, and delete tasks directly in the browser
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/yourusername/todo-list-app.git
+    git clone https://github.com/lavish-agrwl/TO-DO-LIST.git
     ```
 
 2. **Navigate into the project directory:**
 
     ```bash
-    cd todo-list-app
+    cd TO-DO-LIST
     ```
 
 3. **Open `index.html` in your browser:**
